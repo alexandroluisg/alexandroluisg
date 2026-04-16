@@ -28,7 +28,7 @@ mis habilidades en programación, sistemas y tecnología en general.
 
 <h2>🛠️ Tecnologías</h2>
 <p>
-  <img src="https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/HTML-333333?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git&logoColor=white">
 </p>
@@ -52,6 +52,6 @@ y seguir creciendo constantemente en el mundo de la tecnología.
 
 <h2>📫 Contacto</h2>
 <p>
-  ✉️ Gmail: alexandroluisgarcia14@gmail.com <br>
-  🔗 Linkedln: <a href="www.linkedin.com/in/alexandro-luis-garcia-87958b384">Mi Linkedln</a>
+  ✉️ Gmail: <a href="mailto:alexandroluisgarcia14@gmail.com">alexandroluisgarcia14@gmail.com</a>
+  🔗 Linkedln: <a href="https://www.linkedin.com/in/alexandro-luis-garcia-87958b384">Mi Linkedln</a>
 </p>
