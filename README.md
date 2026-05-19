@@ -13,8 +13,7 @@
 Soy estudiante universitario y actualmente estoy iniciando mi camino 
 en el desarrollo de software.
 
-Me encuentro aprendiendo programación estructurada, programación orientada 
-a objetos (POO), desarrollo web y fundamentos de ciberseguridad.
+Actualmente estoy aprendiendo programación básica, programación estructurada, redes, desarrollo web y fundamentos de ciberseguridad, mientras sigo fortaleciendo mi lógica y conocimientos en tecnología.
 
 Disfruto aprender nuevas tecnologías, crear pequeños proyectos y seguir 
 mejorando poco a poco mis habilidades como desarrollador.
