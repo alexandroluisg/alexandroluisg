@@ -56,16 +56,20 @@ crear proyectos propios y fortalecer mis conocimientos en programación y sistem
   🚀 Construyendo mi camino en la tecnología paso a paso
 </p>
 
-<p>
-  ✉️ Gmail:
+<h2>📫 Contacto</h2>
+
+<p align="center">
+  
+  ✉️ <b>Correo:</b><br>
   <a href="mailto:alexandroluisgarcia14@gmail.com">
     alexandroluisgarcia14@gmail.com
   </a>
 
   <br><br>
 
-  🔗 LinkedIn:
+  💼 <b>LinkedIn:</b><br>
   <a href="https://www.linkedin.com/in/alexandro-luis-garcia-87958b384">
-    Mi perfil profesional
+    Ver perfil profesional
   </a>
+
 </p>
