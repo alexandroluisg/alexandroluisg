@@ -38,7 +38,7 @@ mejorando poco a poco mis habilidades como desarrollador.
   <li>☕ Java</li>
   <li>🧠 Fundamentos de Programación</li>
   <li>🧩 Programación Estructurada</li>
-  <li>📡 Fundamento de Redes </li>
+  <li>📡 Redes </li>
   <li>🌐 HTML y CSS</li>
   <li>🔧 Git y GitHub</li>
   <li>🛡️ Fundamentos de ciberseguridad</li>
@@ -51,16 +51,6 @@ mejorando poco a poco mis habilidades como desarrollador.
 Seguir creciendo como desarrollador, aprender nuevos lenguajes y tecnologías,
 crear proyectos propios y fortalecer mis conocimientos en programación y sistemas.
 </p>
-
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=alexandroluisg&show_icons=true"
-    height="165"
-  />
-</p>
-<hr>
 
 <p align="center">
   🚀 Construyendo mi camino en la tecnología paso a paso
