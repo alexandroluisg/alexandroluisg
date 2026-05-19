@@ -36,8 +36,9 @@ mejorando poco a poco mis habilidades como desarrollador.
 
 <ul>
   <li>☕ Java</li>
-  <li>🧠 Programación estructurada</li>
-  <li>🧩 Programación Orientada a Objetos (POO)</li>
+  <li>🧠 Fundamentos de Programación</li>
+  <li>🧩 Programación Estructurada</li>
+  <li>📡 Fundamento de Redes </li>
   <li>🌐 HTML y CSS</li>
   <li>🔧 Git y GitHub</li>
   <li>🛡️ Fundamentos de ciberseguridad</li>
@@ -54,26 +55,16 @@ crear proyectos propios y fortalecer mis conocimientos en programación y sistem
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=alexandroluisg&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=alexandroluisg&show_icons=true"
+    height="165"
   />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandroluisg&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-
 </p>
-
 <hr>
 
 <p align="center">
   🚀 Construyendo mi camino en la tecnología paso a paso
 </p>
-
-<h2>📫 Contacto</h2>
 
 <p>
   ✉️ Gmail:
